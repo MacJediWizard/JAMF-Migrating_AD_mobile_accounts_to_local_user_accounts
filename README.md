@@ -35,9 +35,9 @@ by the following process:
 	
 ## Jamf Variable Label Names
 
-Parameter 4 -eq JAMF Instance URL (e.g. https://<YourJamf>.jamfcloud.com)
-Parameter 5 -eq Your JAMF API Username
-Parameter 6 -eq Your JAMF API Password
-Parameter 7 -eq Your log file path. (Recommended "/Library/Logs/<Company Name>")
-Parameter 8 -eq Your log file name. (Recommended "<scriptName>.log")
-Parameter 9 -eq Your Company Name for the Log
+	Parameter 4 -eq JAMF Instance URL (e.g. https://<YourJamf>.jamfcloud.com)
+	Parameter 5 -eq Your JAMF API Username
+	Parameter 6 -eq Your JAMF API Password
+	Parameter 7 -eq Your log file path. (Recommended "/Library/Logs/<Company Name>")
+	Parameter 8 -eq Your log file name. (Recommended "<scriptName>.log")
+	Parameter 9 -eq Your Company Name for the Log
