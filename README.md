@@ -1,6 +1,6 @@
- #JAMF-Migrating_AD_mobile_accounts_to_local_user_accounts
+ # JAMF-Migrating_AD_mobile_accounts_to_local_user_accounts
 
-This Script will Migrate an Active Directory mobile account to a local account
+<P>This Script will Migrate an Active Directory mobile account to a local account
 	by the following process:
 	
 	1. Detect if the Mac is bound to AD and if it is remove the Bind to AD
@@ -40,5 +40,4 @@ This Script will Migrate an Active Directory mobile account to a local account
 	Parameter 6 -eq Your JAMF API Password
 	Parameter 7 -eq Your log file path. (Recommended "/Library/Logs/<Company Name>")
 	Parameter 8 -eq Your log file name. (Recommended "<scriptName>.log")
-	Parameter 9 -eq Your Company Name for the Log
-
+	Parameter 9 -eq Your Company Name for the Log</p>
